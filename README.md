@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on hackathons on computer vision 
 - 🤔 I’m looking for help with Web developing 
 - 💬 Ask me about OpenCV, Yolov4, Open pose, Computer Vision 
-- 📫 How to reach me: [Linedin:Ganapathi](https://www.linkedin.com/in/ganapathi-subramanyam-jayam-2801801b5/), [Instagram:Ganapathi](https://www.instagram.com/ganapathi_subbu/?hl=en)
+- 📫 How to reach me: [Linkedin:Ganapathi](https://www.linkedin.com/in/ganapathi-subramanyam-jayam-2801801b5/), [Instagram:Ganapathi](https://www.instagram.com/ganapathi_subbu/?hl=en)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love to laugh!
 
