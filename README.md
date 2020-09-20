@@ -1,4 +1,5 @@
 ### Hola I am Ganapathi Subramanyam! 👋
+[![Gmail Badge](https://img.shields.io/badge/-jayam.ganapathi12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayam.ganapathi12@gmail.com)](mailto:jayam.ganapathi12@gmail.com)
 
 - 🔭 I’m a student from [Amrita Vishwa Vidyapeetham](https://admissions.amrita.edu/btech/?utm_source=google&utm_medium=Search&utm_campaign=Btech2020Google&gclid=Cj0KCQjw1qL6BRCmARIsADV9JtYZjIYoC3bvmnVm0CcAIELrk65rnCv8XxFVWvOku7s4RTt0qsaUQeEaAteOEALw_wcB)
 - 🌱 I’m currently learning Gan's
