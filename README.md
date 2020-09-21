@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jayam.ganapathi12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayam.ganapathi12@gmail.com)](mailto:jayam.ganapathi12@gmail.com)
 
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Ganapathi's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="right" alt="Ganapathi's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 - 🔭 I’m a student from [Amrita Vishwa Vidyapeetham](https://admissions.amrita.edu/btech/?utm_source=google&utm_medium=Search&utm_campaign=Btech2020Google&gclid=Cj0KCQjw1qL6BRCmARIsADV9JtYZjIYoC3bvmnVm0CcAIELrk65rnCv8XxFVWvOku7s4RTt0qsaUQeEaAteOEALw_wcB)
