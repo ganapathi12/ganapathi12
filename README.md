@@ -28,8 +28,8 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   </a>
-    <a href="https://www.typescriptlang.org/">
-    <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+    <a href="https://www.django-rest-framework.org/">
+        <img align="left" alt="Django" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"/>
   </a>
   <a href="https://pt-br.reactjs.org">
     <img align="left" alt="React JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
