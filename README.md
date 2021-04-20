@@ -60,7 +60,7 @@
 
 ### Contact me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/ganapathi12)
-[![Gitlab Badge](https://img.shields.io/badge/--000?style=flat-square&logo=Gitlab&logoColor=white&link=https://github.com/lucasgdb)](https://git.amrita.edu/Gana016)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-000?style=flat-square&logo=Gitlab&logoColor=white&link=https://github.com/lucasgdb)](https://git.amrita.edu/Gana016)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganapathi-subramanyam-jayam-2801801b5/)](https://www.linkedin.com/in/ganapathi-subramanyam-jayam-2801801b5/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayam.ganapathi12@gmail.com)](mailto:jayam.ganapathi12@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ganapathi_subbu/)](https://www.instagram.com/ganapathi_subbu/)
